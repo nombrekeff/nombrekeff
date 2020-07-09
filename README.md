@@ -7,7 +7,7 @@ Welcome to my profile, most of my work is private. But I have some exciting proj
 [`📝 LogginJS`](https://github.com/loggin-js/loggin-js)
 
 
-** Where to find me or contact me:**  
+**Where to find me or contact me:**  
 
 [`🔭 DEV.to`](https://dev.to/nombrekeff)
 [`🔭 stackoverflow.com`](https://stackoverflow.com/users/5900163/keff)
