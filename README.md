@@ -25,15 +25,6 @@ Welcome to my profile, most of my work is private. But I have some exciting proj
 <a href="https://www.linkedin.com/company/sindicatorobot-org/"><img height="50" src="https://github.com/nombrekeff/resources/blob/master/0.jpeg?raw=true"></a>
 <a href="https://www.linkedin.com/company/chip-chap"><img height="50" src="https://github.com/nombrekeff/resources/blob/master/chip-chap.png?raw=true"></a>
 
-**What I'm working on currently:**  
-I'm currently working on a side-project inspired by [FindCollabs.com](https://findcollabs.com/). I used FindCollabs for helping with some projects like AirDash, and recently they told the users they are intending to close down the service. 
-
-I had some ideas in mind for quite a while now and decided that it was time to start.
-
-If you are interested in helping me out creating an opensource platform, to help open source projects find collaborators and for users to find projects to contribute to, please contact me, and I will tell you more about it. I will be more than happy to include you in our project. 😄
-
-
-
 ### Contact And Social
 **Where to find me or contact me:**  
 
