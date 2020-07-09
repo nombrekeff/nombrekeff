@@ -2,6 +2,7 @@
 
 Welcome to my profile, most of my work is private. But I have some exciting projects here.
 
+### Tooling
 **Languajes I Use And Know:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -15,13 +16,21 @@ Welcome to my profile, most of my work is private. But I have some exciting proj
 <code><img height="20" src="https://api-platform.com/static/74e20e175f4d908bbc0f1e2af28d3d66/Logo_Circle%20webby%20blue.svg"></code>
 
 
-
-**Here are some of the projects I've helped with:**  
+### What I work on
+**Here are some OS projects I've helped with:**  
 
 [`📱 AirDash`](https://github.com/simonbengtsson/airdash) 
 [`📝 LogginJS`](https://github.com/loggin-js/loggin-js)
 
+**Here are some of the work projects I can share:**  
 
+<a href="https://rec.barcelona/"><img height="50" src="https://rec.barcelona/wp-content/uploads/2018/03/Logo_1200_rec_moneda-600x240.png"></a>
+<a href="https://www.linkedin.com/company/sindicatorobot-org/"><img height="50" src="https://github.com/nombrekeff/resources/blob/master/0.jpeg?raw=true"></a>
+<a href="https://www.linkedin.com/company/chip-chap"><img height="50" src="https://github.com/nombrekeff/resources/blob/master/chip-chap.png?raw=true"></a>
+
+
+
+### Contact And Social
 **Where to find me or contact me:**  
 
 [`🔭 DEV.to`](https://dev.to/nombrekeff)
