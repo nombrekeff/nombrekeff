@@ -15,9 +15,8 @@ Welcome to my profile, most of my work is private. But I have some exciting proj
 
 ### What I work on
 **Here are some OS projects I've helped with:**  
-
-[`📱 AirDash`](https://github.com/simonbengtsson/airdash) 
-[`📝 LogginJS`](https://github.com/loggin-js/loggin-js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simonbengtsson&repo=AirDash)](https://github.com/simonbengtsson/airdash)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=loggin-js&repo=loggin-js)](https://github.com/loggin-js/loggin-js)
 
 **Here are some of the work projects I can share:**  
 
