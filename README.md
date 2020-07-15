@@ -30,7 +30,8 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simonbengtsson&repo=AirDash)](https://github.com/simonbengtsson/airdash)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=loggin-js&repo=loggin-js)](https://github.com/loggin-js/loggin-js)
-  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 <details>
