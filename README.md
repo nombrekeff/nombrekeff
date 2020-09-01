@@ -25,12 +25,23 @@
 
 ### Want to know more? Open the colapsible menu below :)
 
+
+<details>
+  <summary>Projects I've made</summary>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nombrekeff&repo=cli-badges)](https://github.com/nombrekeff/cli-badges)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=loggin-js&repo=loggin-js)](https://github.com/loggin-js/loggin-js)
+
+</details>
+
 <details>
   <summary>OS projects I've helped with</summary>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simonbengtsson&repo=AirDash)](https://github.com/simonbengtsson/airdash)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=loggin-js&repo=loggin-js)](https://github.com/loggin-js/loggin-js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delta456&repo=cli_badges)](https://github.com/Delta456/cli_badges)
+
 
 </details>
 
